@@ -7,5 +7,6 @@ Reviewed 5 papers:
 - MaskDINO
 - X-Decoder
 - SEEM
+  
 And presented the paper extract free dense labels from CLIP.
 
